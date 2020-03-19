@@ -1,0 +1,11 @@
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.exe
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.deps.json
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.runtimeconfig.json
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.runtimeconfig.dev.json
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\bin\Debug\netcoreapp3.1\01-Listas.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\obj\Debug\netcoreapp3.1\01-Listas.AssemblyInfoInputs.cache
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\obj\Debug\netcoreapp3.1\01-Listas.AssemblyInfo.cs
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\obj\Debug\netcoreapp3.1\01-Listas.dll
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\obj\Debug\netcoreapp3.1\01-Listas.pdb
+C:\Users\Ingrid Costa\source\repos\CShp_Listas\CShp_Listas\obj\Debug\netcoreapp3.1\01-Listas.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.exe
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.deps.json
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.runtimeconfig.json
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.runtimeconfig.dev.json
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.dll
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\bin\Debug\netcoreapp3.1\04-Listas.pdb
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\obj\Debug\netcoreapp3.1\04-Listas.csprojAssemblyReference.cache
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\obj\Debug\netcoreapp3.1\04-Listas.AssemblyInfoInputs.cache
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\obj\Debug\netcoreapp3.1\04-Listas.AssemblyInfo.cs
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\obj\Debug\netcoreapp3.1\04-Listas.dll
+C:\Users\icosta\source\repos\CShp_Listas-master\04-Listas\obj\Debug\netcoreapp3.1\04-Listas.pdb
